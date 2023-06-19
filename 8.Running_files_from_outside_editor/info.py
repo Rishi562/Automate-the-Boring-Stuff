@@ -33,7 +33,7 @@ now run the batch file in the folder C:\Users\rishi\OneDrive\Desktop\PythonProgr
 
 if we want to skip writing the full directory c:\ and all,we can add the path to environment variable
 this can be done in advanced settings
-now we can just type hello for the batch file and it will run our program
+now we can just type hello for the batch file and it will run our program /
 
 """
 

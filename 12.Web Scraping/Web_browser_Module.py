@@ -3,6 +3,5 @@
 import webbrowser
 
 webbrowser.open('https://automatetheboringstuff.com') #cool , opens in default browser
-webbrowser.open('https://cloudwithrishi.com') #cool , opens in default browser
 
 

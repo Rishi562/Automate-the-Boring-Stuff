@@ -18,9 +18,9 @@ type(workbook) #defines it is a workbook object
 #if we wan a sheet we can call it by Name
 workbook.get_sheet_names() #print to return their name
 
-sheet['A1'] 
-cell = sheet['A1']
-print(cell.value  )
+#sheet['A1'] 
+#cell = sheet['A1']
+#print(cell.value  )
 
 
 

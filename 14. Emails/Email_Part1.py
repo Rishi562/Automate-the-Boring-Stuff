@@ -11,7 +11,7 @@ conn.ehlo() #call this to start the connection #ptint to see
 conn.starttls() #starts TLS
 conn.login('username', 'password')
 
-conn.sendmail('from','to','subject \n emailsub')
+conn.sendmail('from','to','subject \n\n emailsub')
 
 conn.quit() #disconnect from smtp server
 
